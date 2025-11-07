@@ -60,6 +60,3 @@ Each service includes:
 ---
 
 **Maintained by:** [Jair Villalobos](https://github.com/jlynz) | Backend Engineer
-```
-
-**¿Quieres que optimice alguno de los archivos docker-compose específicos también?**
